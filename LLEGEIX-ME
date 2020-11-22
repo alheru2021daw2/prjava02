@@ -1,0 +1,16 @@
+Instruccions:
+1)
+  a)git branch branca00
+  b)git checkout branca00
+  c)git status
+5)git checkout main, git status, git log main
+7)git checkout banca00
+10b)git merge branca00
+12)git push
+14a)git push --set-upstream origin branca01
+
+Resposta:
+6)No, perque ho hem fet des d'una altre branca.
+7)Sí, perque hem tornat a la branca des d'on ho haviem fet. 
+12c)Perque encara no hem generat la branca00 a Github.
+14c)A caps, perque ens surt que "Your branch is up to date with 'origin/branca01'".
